@@ -7,18 +7,18 @@
   -[additional Info](#additional-Info)
   
   ## Description
-  it is creating readme file for developers
+  creating README file
   ## Installation
-  just follow the steps
+  just run node in terminal
   ##Instruction
   undefined
   ## Usage
-  easily
+  just run node
   ## Credit
-  just me and Google
+  no
   ## License
   Unlicense
 
   ### Contact Information
-  - Github: [undefined](https://github.com/undefined)
+  - Github: [samiyegithub](https://github.com/samiyegithub)
   - Email: samiye@gmail.com
